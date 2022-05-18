@@ -1,0 +1,12 @@
+num1= input ("Please enter number 1 : ")
+num2= input ("Please enter number 2 : ")
+resultadd = float(num1)+float(num2)
+resultsub = float(num1)-float(num2)
+resultmult= float(num1)*float(num2)
+resultdiv = float(num1)/float(num2)
+
+print("Here's results for mathematical operations: ")
+print(resultadd)
+print(resultsub)
+print(resultmult)
+print(resultdiv)
