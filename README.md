@@ -1,3 +1,3 @@
 # Python-1-100
-Python Works -EN-
-This Thread contains Python works made by me .
+Python Exercises For Myself -EN-
+This Thread contains Python exercises made by me .
